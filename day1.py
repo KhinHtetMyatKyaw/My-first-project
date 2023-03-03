@@ -9,10 +9,3 @@ elif marks >=40 or marks ==50 :
         print ("grade.C ✔️")
 elif marks <=39 :
         print ("exam fail ❌")
-
-
-
-    
-
-        
-
